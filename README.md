@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on others that interested in cybersecurity and software development
 - 📫 How to reach me, just email on my gmail account gualterjmdiaz@gmail.com
 - 😄 Pronouns: him/he
-- ⚡ Fun fact:Im a 3rd year Computer Engineering student that loves to eat chocolates
+- ⚡ Fun fact:Im a 4th year Computer Engineering student that loves to eat chocolates
 
 <!---
 JMARKGualter/JMARKGualter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
