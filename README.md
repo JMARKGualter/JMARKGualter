@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMARKGualter
-- 👀 I’m interested in creating softwares, apps, games, and arduino projects
-- 🌱 I’m currently learning about fundamentals of cybersecurity and also c++ languange
+- 👀 I’m interested in creating softwares, apps, games, and networking
+- 🌱 I’m currently learning about fundamentals of cybersecurity, networking, data analysis and also c++ languange
 - 💞️ I’m looking to collaborate on others that interested in cybersecurity and software development
 - 📫 How to reach me, just email on my gmail account gualterjmdiaz@gmail.com
 - 😄 Pronouns: him/he
